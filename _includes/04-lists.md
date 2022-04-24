@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Hear is a list of my favorite things:
+* Coding
+* Programming
+  * JavaScript
+  * C++
